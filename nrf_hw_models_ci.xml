@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="bsim-gh"
+           fetch="https://github.com/BabbleSim"
+           />
+  <default revision="master"
+           remote="bsim-gh"
+           sync-j="8" />
+
+  <project name="base.git" path="components" groups="bsim">
+    <linkfile src="common/Makefile" dest="Makefile" />
+  </project>
+  <project name="ext_2G4_libPhyComv1.git" path="components/ext_2G4_libPhyComv1" groups="bsim"/>
+</manifest>
