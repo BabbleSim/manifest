@@ -8,7 +8,7 @@
            remote="bsim-gh"
            sync-j="8" />
 
-  <project name="base.git" path="components" groups="bsim" revision="refs/tags/v1.4">
+  <project name="base.git" path="components" groups="bsim" revision="refs/tags/v1.5">
     <linkfile src="common/Makefile" dest="Makefile" />
   </project>
   <project name="ext_2G4_libPhyComv1.git" path="components/ext_2G4_libPhyComv1" groups="bsim" revision="refs/tags/v1.2"/>
