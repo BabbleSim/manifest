@@ -20,6 +20,7 @@
   <project name="ext_2G4_modem_BLE_simple.git" path="components/ext_2G4_modem_BLE_simple" groups="bsim"/>
   <project name="ext_2G4_device_burst_interferer.git" path="components/ext_2G4_device_burst_interferer" groups="bsim"/>
   <project name="ext_2G4_device_playback.git" path="components/ext_2G4_device_playback" groups="bsim"/>
+  <project name="ext_2G4_device_playbackv2.git" path="components/ext_2G4_device_playbackv2" groups="bsim"/>
   <project name="ext_2G4_device_WLAN_actmod.git" path="components/ext_2G4_device_WLAN_actmod" groups="bsim"/>
   <project name="ext_NRF52_hw_models.git" path="components/ext_NRF52_hw_models" groups="bsim"/>
   <project name="ext_zephyr_app_builder.git" path="components/ext_zephyr_app_builder" groups="bsim"/>
