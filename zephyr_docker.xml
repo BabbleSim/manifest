@@ -8,13 +8,13 @@
            remote="bsim-gh"
            sync-j="8" />
 
-  <project name="base.git" path="components" groups="bsim" revision="refs/tags/v1.11">
+  <project name="base.git" path="components" groups="bsim" revision="refs/tags/v1.14">
     <linkfile src="common/Makefile" dest="Makefile" />
   </project>
-  <project name="ext_2G4_libPhyComv1.git" path="components/ext_2G4_libPhyComv1" groups="bsim" revision="refs/tags/v2.2"/>
-  <project name="ext_2G4_phy_v1.git" path="components/ext_2G4_phy_v1" groups="bsim" revision="refs/tags/v2.3"/>
+  <project name="ext_2G4_libPhyComv1.git" path="components/ext_2G4_libPhyComv1" groups="bsim" revision="refs/tags/v2.3"/>
+  <project name="ext_2G4_phy_v1.git" path="components/ext_2G4_phy_v1" groups="bsim" revision="refs/tags/v2.4"/>
   <project name="ext_2G4_channel_NtNcable.git" path="components/ext_2G4_channel_NtNcable" groups="bsim" revision="refs/tags/v1.1"/>
-  <project name="ext_2G4_modem_magic.git" path="components/ext_2G4_modem_magic" groups="bsim" revision="refs/tags/v2.1"/>
+  <project name="ext_2G4_modem_magic.git" path="components/ext_2G4_modem_magic" groups="bsim" revision="refs/tags/v2.2"/>
   <project name="ext_2G4_device_burst_interferer.git" path="components/ext_2G4_device_burst_interferer" groups="bsim" revision="refs/tags/v1.1"/>
   <project name="ext_libCryptov1.git" path="components/ext_libCryptov1" groups="bsim" revision="refs/tags/v1.3"/>
   <project name="ext_device_EDTT_bridge.git" path="components/ext_device_EDTT_bridge" groups="bsim" revision="refs/tags/v1.1"/>
