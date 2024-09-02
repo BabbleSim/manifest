@@ -24,5 +24,4 @@
   <project name="ext_2G4_device_WLAN_actmod.git" path="components/ext_2G4_device_WLAN_actmod" groups="bsim"/>
   <project name="ext_NRF52_hw_models.git" path="components/ext_NRF52_hw_models" groups="bsim"/>
   <project name="ext_libCryptov1.git" path="components/ext_libCryptov1" groups="bsim"/>
-  <project name="ext_device_EDTT_bridge.git" path="components/ext_device_EDTT_bridge" groups="bsim"/>
 </manifest>
