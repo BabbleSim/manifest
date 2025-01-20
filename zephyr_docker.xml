@@ -8,7 +8,7 @@
            remote="bsim-gh"
            sync-j="8" />
 
-  <project name="base.git" path="components" groups="bsim" revision="refs/tags/v1.14.2">
+  <project name="base.git" path="components" groups="bsim" revision="refs/tags/v1.15">
     <linkfile src="common/Makefile" dest="Makefile" />
   </project>
   <project name="ext_2G4_libPhyComv1.git" path="components/ext_2G4_libPhyComv1" groups="bsim" revision="refs/tags/v2.4"/>
@@ -17,5 +17,5 @@
   <project name="ext_2G4_modem_magic.git" path="components/ext_2G4_modem_magic" groups="bsim" revision="refs/tags/v2.2"/>
   <project name="ext_2G4_modem_BLE_simple.git" path="components/ext_2G4_modem_BLE_simple" groups="bsim" revision="refs/tags/v2.4.1"/>
   <project name="ext_2G4_device_burst_interferer.git" path="components/ext_2G4_device_burst_interferer" groups="bsim" revision="refs/tags/v1.1"/>
-  <project name="ext_libCryptov1.git" path="components/ext_libCryptov1" groups="bsim" revision="refs/tags/v1.4"/>
+  <project name="ext_libCryptov1.git" path="components/ext_libCryptov1" groups="bsim" revision="refs/tags/v1.5"/>
 </manifest>
