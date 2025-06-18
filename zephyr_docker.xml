@@ -8,11 +8,11 @@
            remote="bsim-gh"
            sync-j="8" />
 
-  <project name="base.git" path="components" groups="bsim" revision="refs/tags/v1.15.1">
+  <project name="base.git" path="components" groups="bsim" revision="refs/tags/v1.15.2">
     <linkfile src="common/Makefile" dest="Makefile" />
   </project>
-  <project name="ext_2G4_libPhyComv1.git" path="components/ext_2G4_libPhyComv1" groups="bsim" revision="refs/tags/v2.4"/>
-  <project name="ext_2G4_phy_v1.git" path="components/ext_2G4_phy_v1" groups="bsim" revision="refs/tags/v2.6"/>
+  <project name="ext_2G4_libPhyComv1.git" path="components/ext_2G4_libPhyComv1" groups="bsim" revision="refs/tags/v2.5"/>
+  <project name="ext_2G4_phy_v1.git" path="components/ext_2G4_phy_v1" groups="bsim" revision="refs/tags/v2.7"/>
   <project name="ext_2G4_channel_NtNcable.git" path="components/ext_2G4_channel_NtNcable" groups="bsim" revision="refs/tags/v1.1"/>
   <project name="ext_2G4_modem_magic.git" path="components/ext_2G4_modem_magic" groups="bsim" revision="refs/tags/v2.2"/>
   <project name="ext_2G4_modem_BLE_simple.git" path="components/ext_2G4_modem_BLE_simple" groups="bsim" revision="refs/tags/v2.4.1"/>
